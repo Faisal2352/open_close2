@@ -10,7 +10,7 @@ void setup(){
 
   mylcd.setCursor(1-1, 1-1);
 
-  mylcd.print("made by omar");
+  mylcd.print("made by faisal");
 
   delay(1000);
 
